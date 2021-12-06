@@ -7,3 +7,5 @@ Reference repository for the course Deep Natural Language Processing @ Politecni
 - **2021-10-20** Lab 2: Word & Sentence embeddings
 - **2021-11-03** Lab 3: IR & Recommendation Systems
 - **2021-11-10** Lab 4: Entity recognition and Intent Detection
+- **2021-11-24** Lab 5: Text Summarization
+- **2021-12-01** Lab 6: Machine Translation
